@@ -1,0 +1,42 @@
+--------------------------------------------------
+Day : 28th Mar - Friday
+--------------------------------------------------
+
+BDD (Behaviour Driven Development) 
+
+BDD using Cucumber 
+
+Cucumber is an API 
+
+Junit as unit testing framework
+
+cucumber + java 
+
+cucumber + junit 
+
+
+Here we are going to write test scripts using Gherkin Lang
+in a file having exentension .feature
+
+
+Requirements					User Stories
+	|								|
+Test Scenarios					Features / Behaviours
+	|								|
+Test Cases						Scenarios	 					
+
+#Feature: List of scenarios.
+#Scenario: Business rule through list of steps with arguments.
+#Given: Some precondition step
+#When: Some key actions
+#Then: To observe outcomes or validation
+#And,But: To enumerate more Given,When,Then steps
+#Scenario Outline: List of steps for data-driven as an Examples and <placeholder>
+#Examples: Container for s table
+#Background: List of steps run before each of the scenarios
+
+
+*********
+how do you achive data prameterization in BDD /Cucumber ?
+
+using ScenarioOutline , Examples  
