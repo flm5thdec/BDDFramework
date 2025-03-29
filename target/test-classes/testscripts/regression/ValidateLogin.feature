@@ -1,5 +1,6 @@
 Feature: To validate login functionality in orangehrm app
 
+@regression
 Scenario: To validate login using valid credentials 
 
 Given user starts "chrome" browser
